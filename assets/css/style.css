@@ -1186,7 +1186,7 @@ a {
 	background-color: transparent;
 	border: none;
 	cursor: pointer;
-	color: #000;
+	color: #fff;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	-o-transition: all 0.5s;
@@ -1248,7 +1248,7 @@ a {
     white-space: nowrap;
 }
 .success #message {
-    color: #BBBBBB;
+    color: #fff;
     font-size: 1.1em;
     margin-top: 10px;
 	text-transform:capitalize;
@@ -1257,7 +1257,7 @@ a {
 	
 .error #message{
 
-	color: #BBBBBB;
+	color: #fff;
 	font-size: 1.1em;
     margin-top: 10px;
     font-weight: 100 !important;
